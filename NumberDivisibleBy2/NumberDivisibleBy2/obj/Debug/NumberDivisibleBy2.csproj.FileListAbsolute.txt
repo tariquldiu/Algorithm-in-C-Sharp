@@ -1,0 +1,6 @@
+D:\C#\NumberDivisibleBy2\NumberDivisibleBy2\bin\Debug\NumberDivisibleBy2.exe.config
+D:\C#\NumberDivisibleBy2\NumberDivisibleBy2\bin\Debug\NumberDivisibleBy2.exe
+D:\C#\NumberDivisibleBy2\NumberDivisibleBy2\bin\Debug\NumberDivisibleBy2.pdb
+D:\C#\NumberDivisibleBy2\NumberDivisibleBy2\obj\Debug\NumberDivisibleBy2.csprojResolveAssemblyReference.cache
+D:\C#\NumberDivisibleBy2\NumberDivisibleBy2\obj\Debug\NumberDivisibleBy2.exe
+D:\C#\NumberDivisibleBy2\NumberDivisibleBy2\obj\Debug\NumberDivisibleBy2.pdb

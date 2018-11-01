@@ -1,0 +1,6 @@
+D:\C#\SumOfDigitRecurtion\SumOfDigitRecurtion\bin\Debug\SumOfDigitRecurtion.exe.config
+D:\C#\SumOfDigitRecurtion\SumOfDigitRecurtion\bin\Debug\SumOfDigitRecurtion.exe
+D:\C#\SumOfDigitRecurtion\SumOfDigitRecurtion\bin\Debug\SumOfDigitRecurtion.pdb
+D:\C#\SumOfDigitRecurtion\SumOfDigitRecurtion\obj\Debug\SumOfDigitRecurtion.csprojResolveAssemblyReference.cache
+D:\C#\SumOfDigitRecurtion\SumOfDigitRecurtion\obj\Debug\SumOfDigitRecurtion.exe
+D:\C#\SumOfDigitRecurtion\SumOfDigitRecurtion\obj\Debug\SumOfDigitRecurtion.pdb

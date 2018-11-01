@@ -1,0 +1,6 @@
+D:\C#\PowerUsingRecurtion\PowerUsingRecurtion\bin\Debug\PowerUsingRecurtion.exe.config
+D:\C#\PowerUsingRecurtion\PowerUsingRecurtion\obj\Debug\PowerUsingRecurtion.csprojResolveAssemblyReference.cache
+D:\C#\PowerUsingRecurtion\PowerUsingRecurtion\bin\Debug\PowerUsingRecurtion.exe
+D:\C#\PowerUsingRecurtion\PowerUsingRecurtion\bin\Debug\PowerUsingRecurtion.pdb
+D:\C#\PowerUsingRecurtion\PowerUsingRecurtion\obj\Debug\PowerUsingRecurtion.exe
+D:\C#\PowerUsingRecurtion\PowerUsingRecurtion\obj\Debug\PowerUsingRecurtion.pdb
