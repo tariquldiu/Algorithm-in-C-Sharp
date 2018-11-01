@@ -1,0 +1,9 @@
+D:\C#\BabulSort\BabulSort\bin\Debug\BabulSort.exe.config
+D:\C#\BabulSort\BabulSort\obj\Debug\BabulSort.csprojResolveAssemblyReference.cache
+D:\C#\BabulSort\BabulSort\bin\Debug\BabulSort.exe
+D:\C#\BabulSort\BabulSort\bin\Debug\BabulSort.pdb
+D:\C#\BabulSort\BabulSort\obj\Debug\BabulSort.exe
+D:\C#\BabulSort\BabulSort\obj\Debug\BabulSort.pdb
+E:\Code\C#\BabulSort\BabulSort\bin\Debug\BabulSort.exe.config
+E:\Code\C#\BabulSort\BabulSort\obj\Debug\BabulSort.exe
+E:\Code\C#\BabulSort\BabulSort\obj\Debug\BabulSort.pdb

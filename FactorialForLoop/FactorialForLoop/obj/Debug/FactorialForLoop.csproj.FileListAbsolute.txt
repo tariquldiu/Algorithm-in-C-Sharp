@@ -1,0 +1,6 @@
+D:\C#\FactorialForLoop\FactorialForLoop\bin\Debug\FactorialForLoop.exe.config
+D:\C#\FactorialForLoop\FactorialForLoop\bin\Debug\FactorialForLoop.exe
+D:\C#\FactorialForLoop\FactorialForLoop\bin\Debug\FactorialForLoop.pdb
+D:\C#\FactorialForLoop\FactorialForLoop\obj\Debug\FactorialForLoop.csprojResolveAssemblyReference.cache
+D:\C#\FactorialForLoop\FactorialForLoop\obj\Debug\FactorialForLoop.exe
+D:\C#\FactorialForLoop\FactorialForLoop\obj\Debug\FactorialForLoop.pdb

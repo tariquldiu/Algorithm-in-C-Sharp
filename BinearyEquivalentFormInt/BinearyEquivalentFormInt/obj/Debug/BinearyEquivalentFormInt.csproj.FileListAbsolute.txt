@@ -1,0 +1,6 @@
+D:\C#\BinearyEquivalentFormInt\BinearyEquivalentFormInt\bin\Debug\BinearyEquivalentFormInt.exe.config
+D:\C#\BinearyEquivalentFormInt\BinearyEquivalentFormInt\bin\Debug\BinearyEquivalentFormInt.exe
+D:\C#\BinearyEquivalentFormInt\BinearyEquivalentFormInt\bin\Debug\BinearyEquivalentFormInt.pdb
+D:\C#\BinearyEquivalentFormInt\BinearyEquivalentFormInt\obj\Debug\BinearyEquivalentFormInt.csprojResolveAssemblyReference.cache
+D:\C#\BinearyEquivalentFormInt\BinearyEquivalentFormInt\obj\Debug\BinearyEquivalentFormInt.exe
+D:\C#\BinearyEquivalentFormInt\BinearyEquivalentFormInt\obj\Debug\BinearyEquivalentFormInt.pdb
