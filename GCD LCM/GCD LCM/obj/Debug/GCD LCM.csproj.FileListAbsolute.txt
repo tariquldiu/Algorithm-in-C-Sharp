@@ -1,0 +1,6 @@
+D:\C#\GCD LCM\GCD LCM\bin\Debug\GCD LCM.exe.config
+D:\C#\GCD LCM\GCD LCM\obj\Debug\GCD LCM.csprojResolveAssemblyReference.cache
+D:\C#\GCD LCM\GCD LCM\bin\Debug\GCD LCM.exe
+D:\C#\GCD LCM\GCD LCM\bin\Debug\GCD LCM.pdb
+D:\C#\GCD LCM\GCD LCM\obj\Debug\GCD LCM.exe
+D:\C#\GCD LCM\GCD LCM\obj\Debug\GCD LCM.pdb
