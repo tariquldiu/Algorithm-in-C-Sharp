@@ -1,0 +1,6 @@
+D:\C#\Factors\Factors\bin\Debug\Factors.exe.config
+D:\C#\Factors\Factors\bin\Debug\Factors.exe
+D:\C#\Factors\Factors\bin\Debug\Factors.pdb
+D:\C#\Factors\Factors\obj\Debug\Factors.csprojResolveAssemblyReference.cache
+D:\C#\Factors\Factors\obj\Debug\Factors.exe
+D:\C#\Factors\Factors\obj\Debug\Factors.pdb

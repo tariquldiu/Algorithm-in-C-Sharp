@@ -1,0 +1,6 @@
+D:\C#\FactorialWhileLoop\FactorialWhileLoop\bin\Debug\FactorialWhileLoop.exe.config
+D:\C#\FactorialWhileLoop\FactorialWhileLoop\obj\Debug\FactorialWhileLoop.csprojResolveAssemblyReference.cache
+D:\C#\FactorialWhileLoop\FactorialWhileLoop\bin\Debug\FactorialWhileLoop.exe
+D:\C#\FactorialWhileLoop\FactorialWhileLoop\bin\Debug\FactorialWhileLoop.pdb
+D:\C#\FactorialWhileLoop\FactorialWhileLoop\obj\Debug\FactorialWhileLoop.exe
+D:\C#\FactorialWhileLoop\FactorialWhileLoop\obj\Debug\FactorialWhileLoop.pdb

@@ -1,0 +1,6 @@
+D:\C#\FibonacciSeriesRecurtion\FibonacciSeriesRecurtion\bin\Debug\FibonacciSeriesRecurtion.exe.config
+D:\C#\FibonacciSeriesRecurtion\FibonacciSeriesRecurtion\bin\Debug\FibonacciSeriesRecurtion.exe
+D:\C#\FibonacciSeriesRecurtion\FibonacciSeriesRecurtion\bin\Debug\FibonacciSeriesRecurtion.pdb
+D:\C#\FibonacciSeriesRecurtion\FibonacciSeriesRecurtion\obj\Debug\FibonacciSeriesRecurtion.csprojResolveAssemblyReference.cache
+D:\C#\FibonacciSeriesRecurtion\FibonacciSeriesRecurtion\obj\Debug\FibonacciSeriesRecurtion.exe
+D:\C#\FibonacciSeriesRecurtion\FibonacciSeriesRecurtion\obj\Debug\FibonacciSeriesRecurtion.pdb

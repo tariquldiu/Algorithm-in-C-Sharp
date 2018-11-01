@@ -1,0 +1,6 @@
+D:\C#\FactorialRecurtion\FactorialRecurtion\bin\Debug\FactorialRecurtion.exe.config
+D:\C#\FactorialRecurtion\FactorialRecurtion\obj\Debug\FactorialRecurtion.csprojResolveAssemblyReference.cache
+D:\C#\FactorialRecurtion\FactorialRecurtion\bin\Debug\FactorialRecurtion.exe
+D:\C#\FactorialRecurtion\FactorialRecurtion\bin\Debug\FactorialRecurtion.pdb
+D:\C#\FactorialRecurtion\FactorialRecurtion\obj\Debug\FactorialRecurtion.exe
+D:\C#\FactorialRecurtion\FactorialRecurtion\obj\Debug\FactorialRecurtion.pdb
